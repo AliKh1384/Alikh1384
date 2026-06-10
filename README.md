@@ -47,6 +47,6 @@ HTML • CSS • JavaScript • React  • Git • GitHub • Python
 ## 📫 Contact
 - GitHub: https://github.com/AliKh1384
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Flutter+Learner;UI/UX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;UI/UX+Designer)](https://git.io/typing-svg)
 
 
