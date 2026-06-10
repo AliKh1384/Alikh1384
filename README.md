@@ -10,7 +10,7 @@
 - 🎓 Computer Engineering Student
 - 🎯 Interested in Frontend , UI/UX
 - ⚡ Passionate about building real-world apps
-- 🌱 Currently learning advanced Flutter & React
+- 🌱 Currently learning advanced Python & React
 
 ---
 
