@@ -49,4 +49,3 @@ HTML • CSS • JavaScript • React  • Git • GitHub • Python
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;UI/UX+Designer)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AliKh1384=anuraghazra&show_icons=true&theme=radical)
