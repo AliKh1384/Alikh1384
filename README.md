@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World%20!&fontSize=30&fontColor=cccccc&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World%20!&fontSize=30&fontColor=cccccc&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -48,19 +48,19 @@
 
 <div align="center">
   <a href="mailto:alikheirabadi1384@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="27" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/Ali" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=Blue&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=Blue&labelColor=&style=plastic" height="27" alt="linkedin logo"  />
   </a>
   <a href="https://instagram.com/alikh1384" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=Red&labelColor=&style=plastic" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=Red&labelColor=&style=plastic" height="27" alt="instagram logo"  />
   </a>
   <a href="https://t.me/Ali_Kh_Dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="27" alt="telegram logo"  />
   </a>
   <a href="https://wa.me/989027741202" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="27" alt="whatsapp logo"  />
   </a>
 </div>
 
@@ -80,10 +80,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alikh1384/alikh1384/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://count.getloli.com/@:alikh1384?theme=minecraft&padding=7&offset=1&scale=0.7&align=center&pixelated=1&darkmode=auto"  />
 </div>
@@ -92,14 +88,6 @@
 
 <div align="left">
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alikh1384/alikh1384/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alikh1384/alikh1384/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alikh1384/alikh1384/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
