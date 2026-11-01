@@ -1,98 +1,74 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World%20!&fontSize=30&fontColor=cccccc&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Ali Kheirabadi — Frontend Developer, UI/UX enthusiast and AI explorer" />
+</p>
 
-###
+<p align="center">
+  <a href="mailto:alikheirabadi1384@gmail.com"><img src="https://img.shields.io/badge/Email-0B1929?style=for-the-badge&amp;logo=gmail&amp;logoColor=56F0D1" alt="Email" /></a>
+  <a href="https://linkedin.com/in/Ali"><img src="https://img.shields.io/badge/LinkedIn-0B1929?style=for-the-badge&amp;logo=linkedin&amp;logoColor=56F0D1" alt="LinkedIn" /></a>
+  <a href="https://t.me/Ali_Kh_Dev"><img src="https://img.shields.io/badge/Telegram-0B1929?style=for-the-badge&amp;logo=telegram&amp;logoColor=56F0D1" alt="Telegram" /></a>
+</p>
 
-<h1 align="center">ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴀʟɪ ᴋʜᴇɪʀᴀʙᴀᴅɪ<br>ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ! 👨‍💻</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3300&amp;pause=1200&amp;color=56F0D1&amp;center=true&amp;vCenter=true&amp;width=840&amp;lines=Crafting+interfaces+that+feel+right.;Building+responsive+web+experiences.;Exploring+the+future+of+AI+agents." alt="Animated introduction: crafting interfaces, building web experiences and exploring AI agents" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="27" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="27" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="27" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="27" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="27" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="27" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="27" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="27" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="27" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="27" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="27" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="27" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="27" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="27" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="27" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="27" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="27" alt="canva logo"  />
-</div>
+### `> whoami`
 
-###
+Hey! I'm **Ali Kheirabadi** — a **frontend-focused developer** and Computer Software Engineering student from Iran.
 
-<div align="center">
-  <a href="mailto:alikheirabadi1384@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="27" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/Ali" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=Blue&labelColor=&style=plastic" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/alikh1384" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=Red&labelColor=&style=plastic" height="27" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/Ali_Kh_Dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="27" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.me/989027741202" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="27" alt="whatsapp logo"  />
-  </a>
-</div>
+I enjoy turning ideas and designs into **clean, responsive, and usable interfaces**. My interests sit at the intersection of **frontend engineering, UI/UX, and practical AI**. I care about the little details: spacing, consistency, accessibility, interaction, and how an interface feels across devices.
 
-###
+- 🎯 **Main focus:** Frontend development, responsive dashboards, and UI/UX
+- 🧩 **Working with:** HTML, CSS, JavaScript, Tailwind CSS, Git
+- 🌱 **Growing into:** React, TypeScript, full-stack development
+- 🤖 **Exploring:** LLMs, AI agents, and intelligent energy-management research
+- 🚀 **Goal:** Build useful products and grow with ambitious engineering teams
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
+### `> tech_stack --show`
 
-###
+**Frontend & styling**
 
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/au6ue4.gif"  />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react&amp;theme=dark" alt="HTML, CSS, JavaScript, Tailwind CSS, React" />
+</p>
 
-###
+**Design & development tools**
 
-<div align="center">
-  <img src="https://count.getloli.com/@:alikh1384?theme=minecraft&padding=7&offset=1&scale=0.7&align=center&pixelated=1&darkmode=auto"  />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&amp;theme=dark" alt="Figma, Git, GitHub, VS Code" />
+</p>
 
-###
+<sub>React and TypeScript are areas I'm actively developing; badges represent tools I've used or am learning, not claimed expert-level proficiency.</sub>
 
-<div align="left">
-</div>
+### `> ls featured-work/`
 
-###
+| Work | What it demonstrates | Status |
+| :--- | :--- | :--- |
+| [Expense Journal](https://github.com/AliKh1384/gleam-expense-journal) | A web-app prototype using React, TypeScript, Tailwind CSS and TanStack tooling | Public · Archived |
+| **Responsive dashboard interfaces** | Customer, agent, and business-facing layouts, component styling, and multi-breakpoint UI work | Selected work · Code not public |
+| **Autonomous AI for energy management** | Research exploration of intelligent agents for energy optimization | Research in progress |
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=1&animation=blink&desc=Lets%20Go%20%F0%9F%98%89&descSize=24&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+> Some of my work is private or not ready for a public showcase. I prefer sharing projects with a clear README, screenshots, and a usable demo when possible.
 
-###
+### `> cat current_focus.txt`
+
+```text
+[01] Responsive, accessible, polished web interfaces
+[02] React + TypeScript and real-world frontend architecture
+[03] UI/UX systems, components, and design-to-code workflows
+[04] AI agents and their practical applications
+```
+
+### `> contact --open`
+
+I'm interested in **frontend opportunities, internships, and thoughtful collaborations**.
+
+- 💌 Email: **[alikheirabadi1384@gmail.com](mailto:alikheirabadi1384@gmail.com)**
+- 💼 LinkedIn: **[linkedin.com/in/Ali](https://linkedin.com/in/Ali)**
+- 💬 Telegram: **[@Ali_Kh_Dev](https://t.me/Ali_Kh_Dev)**
+
+<p align="center">
+  <sub>Build with curiosity. Ship with care. Keep learning.</sub>
+</p>
