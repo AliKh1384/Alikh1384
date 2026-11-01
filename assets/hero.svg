@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Kheirabadi — Frontend Developer</title>
+  <desc id="desc">A dark terminal-inspired banner with teal and blue highlights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111d"/>
+      <stop offset=".55" stop-color="#0a182b"/>
+      <stop offset="1" stop-color="#0a1020"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#56f0d1"/>
+      <stop offset="1" stop-color="#5a8bff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#2ed9c2" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#2ed9c2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#29435d" stroke-opacity=".28" stroke-width=".8"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1100" height="310" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1100" height="310" fill="url(#bg)"/>
+    <rect width="1100" height="310" fill="url(#grid)"/>
+    <circle cx="858" cy="166" r="250" fill="url(#glow)"/>
+    <path d="M0 3H1100" stroke="url(#line)" stroke-width="6"/>
+    <g opacity=".48" fill="none" stroke="#2f6679" stroke-width="1.2">
+      <path d="M736 60H895L933 98H1070"/>
+      <path d="M743 252H884L914 225H1080"/>
+      <path d="M806 113H942L986 157H1100"/>
+      <circle cx="895" cy="60" r="4" fill="#56f0d1"/>
+      <circle cx="914" cy="225" r="4" fill="#5a8bff"/>
+      <circle cx="986" cy="157" r="4" fill="#56f0d1"/>
+    </g>
+    <rect x="42" y="36" width="160" height="30" rx="9" fill="#0f2b32" stroke="#1e776e"/>
+    <circle cx="59" cy="51" r="4" fill="#56f0d1"/>
+    <text x="73" y="56" fill="#a0e4d9" font-family="monospace" font-size="14" letter-spacing="1.5">AK / DEV</text>
+    <text x="45" y="128" fill="#f2f8ff" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="2">ALI KHEIRABADI</text>
+    <rect x="45" y="148" width="285" height="4" rx="2" fill="url(#line)"/>
+    <text x="45" y="190" fill="#56f0d1" font-family="monospace" font-size="20" font-weight="600">FRONTEND DEVELOPER</text>
+    <text x="45" y="222" fill="#b9cbe0" font-family="monospace" font-size="17">UI / UX  <tspan fill="#51738d">•</tspan>  WEB EXPERIENCES  <tspan fill="#51738d">•</tspan>  AI EXPLORER</text>
+    <text x="45" y="269" fill="#6f91ab" font-family="monospace" font-size="15">&gt; learn. build. refine. repeat._</text>
+    <rect x="772" y="82" width="282" height="161" rx="14" fill="#08121d" fill-opacity=".85" stroke="#2b5068"/>
+    <circle cx="795" cy="102" r="4" fill="#fb6c7a"/>
+    <circle cx="810" cy="102" r="4" fill="#f7c565"/>
+    <circle cx="825" cy="102" r="4" fill="#56f0d1"/>
+    <path d="M773 117H1053" stroke="#2b5068"/>
+    <text x="791" y="148" fill="#56f0d1" font-family="monospace" font-size="14">$ whoami</text>
+    <text x="791" y="174" fill="#ebf4ff" font-family="monospace" font-size="14">ali.kheirabadi</text>
+    <text x="791" y="203" fill="#56f0d1" font-family="monospace" font-size="14">$ focus</text>
+    <text x="791" y="226" fill="#a5c5de" font-family="monospace" font-size="14">frontend + design</text>
+  </g>
+</svg>
